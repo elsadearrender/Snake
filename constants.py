@@ -8,3 +8,6 @@ TITLE = "CULEBRITA"
 
 # Colors
 BG_COLOR = (25, 203, 54)
+
+# Size snake body
+SIZE_SNAKE = 32
